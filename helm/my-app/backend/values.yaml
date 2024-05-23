@@ -1,5 +1,5 @@
-appName: AATT_APP_NAME-backend # This value was modified by the initial-setup python script
+appName: naupakaio-backend # This value was modified by the initial-setup python script
 
 deployment:
   image:
-    repository: AATT_DOCKERHUB_USERNAME/AATT_APP_NAME-backend # This value was modified by the initial-setup python script
+    repository: danilgallagher/naupakaio-backend # This value was modified by the initial-setup python script
